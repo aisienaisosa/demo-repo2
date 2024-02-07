@@ -1,3 +1,10 @@
-# adding new files practicing git
+#demo
+some description!
 
-starting ftrom the begining
+## subheader
+
+watch tutorial on youtube
+
+## local development
+
+1. open index.hmtl in your browser.
